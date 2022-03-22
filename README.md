@@ -7,7 +7,9 @@ desde la línea de comandos especificar por argumento el tipo de criptomoneda de
 $ python requestCrypto.py <criptomoneda>
 
 # ayuda
-el script permite una ayuda desde la línea de comandos con uno de los siguientes párametros: -h, -help, --help, -?, --?
+el script permite una ayuda desde la línea de comandos con uno de los siguientes párametros: 
+
+-h, -help, --help, -?, --?
 
 # ejemplos
 $ python requestCrypto.py bitcoin
