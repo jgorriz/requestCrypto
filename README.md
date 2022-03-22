@@ -39,3 +39,8 @@ $ python requestCrypto.py ripple
  - llamada al microservicio correcto: status code 200
 
  ** El precio actual de 1 bitcoin es 0.849125 dólares **
+
+ # control de errores
+ en caso de error, el script devuelve el tipo de error HTTP que se haya producido en la llamada al microservicio
+ 
+ 
